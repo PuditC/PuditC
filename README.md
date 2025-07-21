@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Framework, Oracle Database (PL/SQL), Flutter (Dart), Firebase, Unreal Engine 4, Angular, TypeScript, HTML, and CSS.
+I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Framework, Oracle Database (PL/SQL), Flutter (Dart), Firebase, Angular, TypeScript, HTML, and CSS.
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oampudit)
 [![GitLab Badge](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/oampudit)
@@ -97,10 +97,6 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
   <summary>
    <strong>Other Skills</strong> 
  </summary>
- <br>
- <a style="text-decoration: none;" href="https://www.unrealengine.com/"> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" alt="unreal" width="32" height="32" />
- </a>
 </details>
 </details>
 <br>
