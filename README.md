@@ -109,11 +109,11 @@ I'm Pudit Chokmeesuk (Oam), a software developer with experience in C# .NET Fram
   </summary>
  <br>
  
-![OamPudit' GitHub stats](https://github-readme-stats.vercel.app/api?username=puditc&count_private=true&show_icons=true&theme=default)
+![OamPudit' GitHub stats](https://github-stats-extended.vercel.app/api?username=puditc&count_private=true&show_icons=true&theme=default)
 
 <br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puditc)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=puditc)](https://github.com/stats-organization/github-stats-extended)
 
  <br>
 </details>
